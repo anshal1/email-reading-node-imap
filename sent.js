@@ -13,8 +13,8 @@ app.use(
 // process.env.NODE_TLS_REJECT_UNAUTHORIZED = 0;
 
 const imapConfig = {
-  user: "anshalpatel6@gmail.com",
-  password: "oejoevlbhohxbwdc",
+  user: "emil",
+  password: "password",
   host: "imap.gmail.com",
   port: 993,
   tls: true,

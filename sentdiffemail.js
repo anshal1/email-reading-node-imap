@@ -16,8 +16,8 @@ const Mails = [];
 //   ],
 
 const imapConfig = {
-  user: "ritwik@aican.co.in",
-  password: "Ai.can.co.in",
+  user: "email",
+  password: "password",
   host: "imap.secureserver.net",
   port: 993,
   tls: true,
